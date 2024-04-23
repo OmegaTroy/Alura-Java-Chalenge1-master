@@ -1,4 +1,4 @@
-package io.github.danildzambrana;
+package io.github.omegatroy;
 
 import java.io.FileInputStream;
 import java.io.IOException;

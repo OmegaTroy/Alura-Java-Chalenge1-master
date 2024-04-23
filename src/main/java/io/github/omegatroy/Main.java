@@ -1,7 +1,7 @@
-package io.github.danildzambrana;
+package io.github.omegatroy;
 
 import com.google.gson.Gson;
-import io.github.danildzambrana.models.CurrencyDTO;
+import io.github.omegatroy.models.CurrencyDTO;
 
 import java.net.URI;
 import java.net.http.HttpClient;
